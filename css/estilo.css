@@ -1,0 +1,20 @@
+
+ .box{
+     background-color: aquamarine;
+     display: flex;
+     flex-flow: row-reverse wrap;
+     align-items: flex-end;
+ }
+ .box div{
+
+    width: 70vh; 
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px solid black;
+    
+ }
+
+ main{
+     height: 50vh;
+ }
+
